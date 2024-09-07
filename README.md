@@ -8,6 +8,6 @@ Este projeto web tem como objetivo criar uma plataforma de pesquisa sobre o Meta
 * **CSS:** Estilização da página.
 * **JavaScript:** Lógica da aplicação, incluindo a pesquisa.
 
-![Print do projeto](metaverso/readme.png)
+![Print do projeto](readme.png)
 
 
